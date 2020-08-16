@@ -1,2 +1,2 @@
 # news_notification
-Displays the new news article from The Hindu.
+Displays new news article from The Hindu.
